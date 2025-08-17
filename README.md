@@ -1,6 +1,6 @@
 # 🛍️ SHEIN_SEN
 
-**Système d'Automatisation des Commandes Groupées Shein au Sénégal**
+**Système d'Automatisation des Commandes Groupées Shein**
 
 *Organise, optimise et facilite les commandes Shein collectives.*
 
@@ -394,7 +394,3 @@ Ce projet est destiné à des fins éducatives et personnelles. L'utilisation co
 - 🐍 Communauté Python pour les excellentes librairies
 
 ---
-
-**SHEIN_SEN** - *Simplifier les commandes groupées Shein au Sénégal* 🇸🇳
-
-*Développé avec ❤️ pour la communauté sénégalaise*
